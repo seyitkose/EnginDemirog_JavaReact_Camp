@@ -46,7 +46,7 @@ public class Main {
 		
 		EducationManager educationManger = new EducationManager();
 		
-		educationManger.adToCart(educations2);
+		educationManger.joinTheEducation(educations2);
 	}
 
 }
