@@ -26,7 +26,7 @@ public class Education {
 	}
 
 	// Kurslar diye bir alan var. Tıkladığımızda;
-	// ÖZELLİK CLASI
+	// ÖZELLİK CLASSI
 	// 3 farklı kursun "Adı, Açıklama Alanı, Eğitmeni, Ücretli/Ücretsiz Kısmı"
 	// bulunmakta.
 
